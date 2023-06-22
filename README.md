@@ -1,5 +1,9 @@
 # Testy automatyczne w aplikacjach internetowych
 
+## Praca inżynierksa
+
+- Plik [PDF](/testy-automatyczne-w-aplikacjach-internetowych.pdf), [ODT](/testy-automatyczne-w-aplikacjach-internetowych.odt).
+
 ## Streszczenie
 
 ### [PL]
